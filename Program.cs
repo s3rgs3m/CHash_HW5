@@ -54,4 +54,4 @@ for (int i=0; i < arraySize; i++){
         min = arr2[i] < min ? arr2[i] : min;
     }
 }
-Console.Write($"]. Разница между максимальным и минимальным элементами= {max-min}");
+Console.Write($"]. Разница между максимальным и минимальным элементами= {max-min}"); 
